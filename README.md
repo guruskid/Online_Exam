@@ -12,6 +12,5 @@ Feel free to contact me if you find any error or a scope for improvement.
 
 Happy Coding
 
-Penny Marwa 
-(Prabhleen Kaur)
-
+Prabhleen Kaur
+(Penny Marwa)
